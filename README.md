@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sakmanal@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="sakmanal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="linkedin.com/in/athanasios-manalikadis-63a043189"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I'm Thanos Manalikadis, a software engineer 👨‍💻 who is passionate about Web Development.
 
