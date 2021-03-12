@@ -7,7 +7,7 @@ I'm Thanos Manalikadis, a software engineer 👨‍💻 who is passionate about 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Electrical Engineering and Computer Science master degree.
-- 💼 &nbsp; Working as an Electrical Engineer but looking forward to get in the tech industry.
+- 💼 &nbsp; Working as a Frontend Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning more about Systems Design and Software Testing.
 
